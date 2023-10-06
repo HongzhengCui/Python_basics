@@ -5,9 +5,9 @@ For this programming assignment, write a  Python script that computes and prints
 
 That prints the following:
 
-Subtotal: $     10.00
-     Tax: $      0.50
-     Tip: $      2.00
-           ==========
-   Total: $     12.50
+Subtotal: $     10.00  
+     Tax: $      0.50  
+     Tip: $      2.00  
+           ==========  
+   Total: $     12.50  
 with the call: print_receipt(10.00, .05, .2)
