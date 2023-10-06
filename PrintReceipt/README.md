@@ -5,7 +5,7 @@ For this programming assignment, write a  Python script that computes and prints
 
 That prints the following:
 
-Subtotal: $     10.00  
+Subtotal:\$\\\\\10.00  
      Tax: $      0.50  
      Tip: $      2.00  
            ==========  
