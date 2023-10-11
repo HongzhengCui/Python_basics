@@ -31,3 +31,4 @@ In this project, a retirement calculator program will be implemented. The progra
 4. Write the results to a file in CSV format.
 
 ## Other tasks
+There are some basic tasks programmed with Python.
